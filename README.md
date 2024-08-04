@@ -1,3 +1,3 @@
-<br> <br> 
+<br> <br>  
 
 # Glowing Search Bar with html ans css. 
